@@ -31,7 +31,7 @@ This project has been entered in numerous hackathons and due to the non-disclosu
 
 ## Contributors 
 Team Localhost consisting of <br>
-1. <a href="https://www.linkedin.com/in/fozail-ahmed-3297ab236/">Fozail Ahmed </a>
-2. <a href="https://www.linkedin.com/in/ananya-bhombore-674870245/">Ananya Bhombore </a>
-3. <a href="https://www.linkedin.com/in/mrudula-s-prassad-24712a16b/">Mrudala S Prasad </a>
-4. <a href="https://www.linkedin.com/in/charan-simha-d-325664239/">Charan Simha </a>
+1. <a href="https://www.linkedin.com/in/ananya-bhombore-674870245/">Ananya Bhombore </a>
+2. <a href="https://www.linkedin.com/in/charan-simha-d-325664239/">Charan Simha </a>
+3. <a href="https://www.linkedin.com/in/fozail-ahmed-3297ab236/">Fozail Ahmed </a>
+4. <a href="https://www.linkedin.com/in/mrudula-s-prassad-24712a16b/">Mrudala S Prasad </a> 
